@@ -1,0 +1,1 @@
+music_vae_train --config=cat-mel_2bar_small --run_dir=/tmp/music_vae/ --mode=train --examples_path=notes.tfrecord

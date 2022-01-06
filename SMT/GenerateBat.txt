@@ -1,0 +1,1 @@
+music_vae_generate --config=cat-mel_2bar_small --checkpoint_file=/tmp/music_vae/CKP/model.ckpt --mode=sample --num_outputs=5 --output_dir=/tmp/music_vae/generated
